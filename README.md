@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I am Prerak Raja 👋
+### Hi there, I am Rajasekar Kannan 👋
 [![Linkedin Badge](https://img.shields.io/badge/-rajasekark54-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasekark54/)](https://www.linkedin.com/in/rajasekark54/)
 [![Gmail Badge](https://img.shields.io/badge/-rajasekark54@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajasekark54@gmail.com)](mailto:rajasekark54@gmail.com) 
 
